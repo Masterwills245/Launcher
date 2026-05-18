@@ -1,0 +1,8 @@
+#Thu Apr 23 02:39:10 UTC 2026
+shadowMapResolution=1024
+cloudVolumeEnabled=false
+shadowFilterIterations=9
+motionblurToggle=false
+shadowVPSEnabled=false
+cloudVolume1Enabled=false
+fogVolumeEnabled=false
