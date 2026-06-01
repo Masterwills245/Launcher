@@ -9,10 +9,10 @@
   "servers": [
     {
       "id": "mi-modpack-tecnico-1.20.1",
-      "name": "Epic x Create(Minecraft 1.20.1)",
-      "description": "Epic x Create Running Minecraft 1.20.1 (Forge v47.4.10)",
+      "name": "mi-modpack-tecnico (Minecraft 1.20.1)",
+      "description": "mi-modpack-tecnico Running Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": null,
-      "version": "1.0.4",
+      "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7398,
             "MD5": "39c68f8be018557068512f16cf3f97fa",
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
+            "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16554,
                 "MD5": "eede38b0c090f69c7789cd35e753853d",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
+                "url": "https://masterwills245.github.io/Launcher/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118913,
                 "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16854,
                 "MD5": "1193446859d078e83d9fcc4d8a39f44d",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4999,
                 "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2777708,
                 "MD5": "f202df135ad32fef7e7c42e957c142af",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4848366,
                 "MD5": "5c4d8867f3152f9c397859436a06321c",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 31872,
                 "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 267079,
                 "MD5": "9446521da84ab53aa7a81af82d4e854a",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170518,
                 "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
-                "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
+                "url": "https://masterwills245.github.io/Launcher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "File",
           "artifact": {
             "size": 177,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/config/openloader/advanced_options.json",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/config/openloader/advanced_options.json",
             "MD5": "01c2e94c2404666f120a9568bec49673",
             "path": "config/openloader/advanced_options.json"
           }
@@ -449,7 +449,7 @@
           "type": "File",
           "artifact": {
             "size": 120846,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/config/openloader/data/AAAtectonic-datapack-v2.2.1.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/config/openloader/data/AAAtectonic-datapack-v2.2.1.zip",
             "MD5": "56844fa91c3615d26bfd904ab02d75bd",
             "path": "config/openloader/data/AAAtectonic-datapack-v2.2.1.zip"
           }
@@ -460,7 +460,7 @@
           "type": "File",
           "artifact": {
             "size": 1321046,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/datapacks/EF%20DMC%20Weapons.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/datapacks/EF%20DMC%20Weapons.zip",
             "MD5": "a186e067d366d739e0527e23485fea89",
             "path": "datapacks/EF DMC Weapons.zip"
           }
@@ -471,7 +471,7 @@
           "type": "File",
           "artifact": {
             "size": 37375,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/datapacks/mostly%20done.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/datapacks/mostly%20done.zip",
             "MD5": "24b259a8899f99a874a82d7b46046b18",
             "path": "datapacks/mostly done.zip"
           }
@@ -482,7 +482,7 @@
           "type": "File",
           "artifact": {
             "size": 1016666,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/continuity-3.0.0+1.20.1.forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/continuity-3.0.0+1.20.1.forge.jar",
             "MD5": "d14cdccb4b6c161d9846cc8cdf03068e",
             "path": "mods/.connector/continuity-3.0.0+1.20.1.forge.jar"
           }
@@ -493,7 +493,7 @@
           "type": "File",
           "artifact": {
             "size": 1023767,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar",
             "MD5": "afd42e2bbbf29e410ec0da29b1b7a127",
             "path": "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
           }
@@ -504,7 +504,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input",
             "MD5": "ec9edfb4faca1e6d86f77a5fdd0de922",
             "path": "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar.input"
           }
@@ -515,7 +515,7 @@
           "type": "File",
           "artifact": {
             "size": 2110694,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/fabric-api-0.92.8+1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/fabric-api-0.92.8+1.20.1.jar",
             "MD5": "ffe4ed2401f1aadd1c29c369d5d31d90",
             "path": "mods/.connector/fabric-api-0.92.8+1.20.1.jar"
           }
@@ -526,7 +526,7 @@
           "type": "File",
           "artifact": {
             "size": 28980,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-api-base-0.4.29+b04edc7a77.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-api-base-0.4.29+b04edc7a77.jar",
             "MD5": "ea7e90c85f61e7d74a2b5395dc280617",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-api-base-0.4.29+b04edc7a77.jar"
           }
@@ -537,7 +537,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-api-base-0.4.29+b04edc7a77.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-api-base-0.4.29+b04edc7a77.jar.input",
             "MD5": "35575d2ef6b9306fe09efa527c3088e0",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-api-base-0.4.29+b04edc7a77.jar.input"
           }
@@ -548,7 +548,7 @@
           "type": "File",
           "artifact": {
             "size": 19291,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar",
             "MD5": "c7d1990ada372c91562fd5a17670d0c9",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar"
           }
@@ -559,7 +559,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar.input",
             "MD5": "50ebb148766983e5bdc6f932b8af2cf8",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar.input"
           }
@@ -570,7 +570,7 @@
           "type": "File",
           "artifact": {
             "size": 132021,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-networking-api-v1-1.3.8+b3afc78b77.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-networking-api-v1-1.3.8+b3afc78b77.jar",
             "MD5": "c117ca99f016a30bf0622c58e27f5ba6",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-networking-api-v1-1.3.8+b3afc78b77.jar"
           }
@@ -581,7 +581,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-networking-api-v1-1.3.8+b3afc78b77.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-networking-api-v1-1.3.8+b3afc78b77.jar.input",
             "MD5": "a7d4826f5e55a0476e83455e99e7fab1",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-networking-api-v1-1.3.8+b3afc78b77.jar.input"
           }
@@ -592,7 +592,7 @@
           "type": "File",
           "artifact": {
             "size": 91509,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar",
             "MD5": "c2dae28dbae11dda7d927e75844fa130",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar"
           }
@@ -603,7 +603,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input",
             "MD5": "f719f3a13452149930ceabcafe5c331a",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-resource-loader-v0-0.11.7+f7923f6d77.jar.input"
           }
@@ -614,7 +614,7 @@
           "type": "File",
           "artifact": {
             "size": 57104,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-screen-api-v1-2.0.6+b3afc78b77.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-screen-api-v1-2.0.6+b3afc78b77.jar",
             "MD5": "26855aefc285abd4864de4e6ddb269d9",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-screen-api-v1-2.0.6+b3afc78b77.jar"
           }
@@ -625,7 +625,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-screen-api-v1-2.0.6+b3afc78b77.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-screen-api-v1-2.0.6+b3afc78b77.jar.input",
             "MD5": "e1b2b748b2e469f17f1662e6bfcd3ac2",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$fabric-screen-api-v1-2.0.6+b3afc78b77.jar.input"
           }
@@ -636,7 +636,7 @@
           "type": "File",
           "artifact": {
             "size": 175216,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$mixinextras-fabric-0.3.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$mixinextras-fabric-0.3.6.jar",
             "MD5": "bba044c32b2907059c94b91fe965285e",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$mixinextras-fabric-0.3.6.jar"
           }
@@ -647,7 +647,7 @@
           "type": "File",
           "artifact": {
             "size": 92,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$mixinextras-fabric-0.3.6.jar.input",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/.connector/temp/replaymod-1.20.1-2.6.20$mixinextras-fabric-0.3.6.jar.input",
             "MD5": "98324d5c17405e7772ec02f160a40aac",
             "path": "mods/.connector/temp/replaymod-1.20.1-2.6.20$mixinextras-fabric-0.3.6.jar.input"
           }
@@ -658,7 +658,7 @@
           "type": "File",
           "artifact": {
             "size": 11517938,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/Actual_mod_AerluneRPG0.0.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/Actual_mod_AerluneRPG0.0.4.jar",
             "MD5": "d9c45480f0f19a6a75974602e9180d49",
             "path": "mods/Actual_mod_AerluneRPG0.0.4.jar"
           }
@@ -669,7 +669,7 @@
           "type": "File",
           "artifact": {
             "size": 7508861,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/ad_astra-forge-1.20.1-1.15.20.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/ad_astra-forge-1.20.1-1.15.20.jar",
             "MD5": "1ce3f9859fce6a4eac9b7f17e375dfd2",
             "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar"
           }
@@ -680,7 +680,7 @@
           "type": "File",
           "artifact": {
             "size": 74871657,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/alexscaves-2.0.2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/alexscaves-2.0.2.jar",
             "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5",
             "path": "mods/alexscaves-2.0.2.jar"
           }
@@ -691,7 +691,7 @@
           "type": "File",
           "artifact": {
             "size": 26350793,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/alexsmobs-1.22.9.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/alexsmobs-1.22.9.jar",
             "MD5": "504050d1f2e2c3019b6f53377ca354c6",
             "path": "mods/alexsmobs-1.22.9.jar"
           }
@@ -702,7 +702,7 @@
           "type": "File",
           "artifact": {
             "size": 1187126,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/alltheleaks-1.1.1+1.20.1-forge.jar",
             "MD5": "df84fbdadaf7947dc530872fa60fbc56",
             "path": "mods/alltheleaks-1.1.1+1.20.1-forge.jar"
           }
@@ -713,7 +713,7 @@
           "type": "File",
           "artifact": {
             "size": 47428,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953",
             "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
           }
@@ -724,7 +724,7 @@
           "type": "File",
           "artifact": {
             "size": 8495956,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/appliedenergistics2-forge-15.4.10.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/appliedenergistics2-forge-15.4.10.jar",
             "MD5": "69e47ebd80184d34176cebeb6233a234",
             "path": "mods/appliedenergistics2-forge-15.4.10.jar"
           }
@@ -735,7 +735,7 @@
           "type": "File",
           "artifact": {
             "size": 580602,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/architectury-9.2.14-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
             "path": "mods/architectury-9.2.14-forge.jar"
           }
@@ -746,7 +746,7 @@
           "type": "File",
           "artifact": {
             "size": 850974,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/artifacts-forge-9.5.19.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/artifacts-forge-9.5.19.jar",
             "MD5": "54a59ba2d659e97aaff43264dd63e9c3",
             "path": "mods/artifacts-forge-9.5.19.jar"
           }
@@ -757,7 +757,7 @@
           "type": "File",
           "artifact": {
             "size": 91808,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/athena-forge-1.20.1-3.1.2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/athena-forge-1.20.1-3.1.2.jar",
             "MD5": "2086e326e8f0ff2f8d7d05c66c291484",
             "path": "mods/athena-forge-1.20.1-3.1.2.jar"
           }
@@ -768,7 +768,7 @@
           "type": "File",
           "artifact": {
             "size": 19499,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
             "MD5": "e43cd5f7fc4b04e20127359e5bf9af80",
             "path": "mods/AttributeFix-Forge-1.20.1-21.0.5.jar"
           }
@@ -779,7 +779,7 @@
           "type": "File",
           "artifact": {
             "size": 70,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/autotip/30feb5d4-51a3-4821-ba29-0dfa3b6c2410/config.at",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/autotip/30feb5d4-51a3-4821-ba29-0dfa3b6c2410/config.at",
             "MD5": "f563dbf6e479bcafc9d2fd1e27dfe8ea",
             "path": "mods/autotip/30feb5d4-51a3-4821-ba29-0dfa3b6c2410/config.at"
           }
@@ -790,7 +790,7 @@
           "type": "File",
           "artifact": {
             "size": 1060145,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/azurelib-neo-1.20.1-3.1.10.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/azurelib-neo-1.20.1-3.1.10.jar",
             "MD5": "68108eaa8879393efdb36f118fe545d5",
             "path": "mods/azurelib-neo-1.20.1-3.1.10.jar"
           }
@@ -801,7 +801,7 @@
           "type": "File",
           "artifact": {
             "size": 591398,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/balm-forge-1.20.1-7.3.38-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/balm-forge-1.20.1-7.3.38-all.jar",
             "MD5": "2ff18975f2b4d0570f8eeeae85b66e42",
             "path": "mods/balm-forge-1.20.1-7.3.38-all.jar"
           }
@@ -812,7 +812,7 @@
           "type": "File",
           "artifact": {
             "size": 2612507,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
             "MD5": "9366ea537d6b7d7c00567f5edb27679b",
             "path": "mods/bettervillage-forge-1.20.1-3.3.1-all.jar"
           }
@@ -823,7 +823,7 @@
           "type": "File",
           "artifact": {
             "size": 1275007,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/biggerstacks-1.20.1-2026.02.27-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/biggerstacks-1.20.1-2026.02.27-all.jar",
             "MD5": "1b80ed6fc4d879cbb6395e73d344731e",
             "path": "mods/biggerstacks-1.20.1-2026.02.27-all.jar"
           }
@@ -834,7 +834,7 @@
           "type": "File",
           "artifact": {
             "size": 8925048,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/bossesunleashed-1.0.4-hotfix.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/bossesunleashed-1.0.4-hotfix.jar",
             "MD5": "b7ae4f8d98696fc7c1ae074ac6f88c83",
             "path": "mods/bossesunleashed-1.0.4-hotfix.jar"
           }
@@ -845,7 +845,7 @@
           "type": "File",
           "artifact": {
             "size": 157633,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/botarium-forge-1.20.1-2.3.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/botarium-forge-1.20.1-2.3.4.jar",
             "MD5": "c204f9d834da78a3972fc98da96730aa",
             "path": "mods/botarium-forge-1.20.1-2.3.4.jar"
           }
@@ -856,7 +856,7 @@
           "type": "File",
           "artifact": {
             "size": 3942918,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/Butchersdelight%20beta%201.20.1%202.1.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/Butchersdelight%20beta%201.20.1%202.1.0.jar",
             "MD5": "c9f6b30b944392384a4df545d20adb61",
             "path": "mods/Butchersdelight beta 1.20.1 2.1.0.jar"
           }
@@ -867,7 +867,7 @@
           "type": "File",
           "artifact": {
             "size": 1839442,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/c2meF-0.2.0+alpha.12-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/c2meF-0.2.0+alpha.12-all.jar",
             "MD5": "3f785cd9fafe9b3b9415c4a981307b79",
             "path": "mods/c2meF-0.2.0+alpha.12-all.jar"
           }
@@ -878,7 +878,7 @@
           "type": "File",
           "artifact": {
             "size": 40125,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/caelus-forge-3.2.0+1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/caelus-forge-3.2.0+1.20.1.jar",
             "MD5": "e37854c44b1849b753afc4a205f31b46",
             "path": "mods/caelus-forge-3.2.0+1.20.1.jar"
           }
@@ -889,7 +889,7 @@
           "type": "File",
           "artifact": {
             "size": 439457,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7",
             "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar"
           }
@@ -900,7 +900,7 @@
           "type": "File",
           "artifact": {
             "size": 15060263,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/chipped-forge-1.20.1-3.0.7.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/chipped-forge-1.20.1-3.0.7.jar",
             "MD5": "c6c76e78805b357757bf47b04c7286e7",
             "path": "mods/chipped-forge-1.20.1-3.0.7.jar"
           }
@@ -911,7 +911,7 @@
           "type": "File",
           "artifact": {
             "size": 2104697,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/chisels-and-bits-forge-20.1.20.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/chisels-and-bits-forge-20.1.20.jar",
             "MD5": "bf88aa872ea08a8ba22ae60564eefcfd",
             "path": "mods/chisels-and-bits-forge-20.1.20.jar"
           }
@@ -922,7 +922,7 @@
           "type": "File",
           "artifact": {
             "size": 341451,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/Chunky-1.3.146.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/Chunky-1.3.146.jar",
             "MD5": "ed46120ac4f30ec8e03f6416e295577c",
             "path": "mods/Chunky-1.3.146.jar"
           }
@@ -933,7 +933,7 @@
           "type": "File",
           "artifact": {
             "size": 700109,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/cinematiccataclysm-1.0.1-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/cinematiccataclysm-1.0.1-1.20.1.jar",
             "MD5": "e15619e6917b0fe6e37b7ee1415718f5",
             "path": "mods/cinematiccataclysm-1.0.1-1.20.1.jar"
           }
@@ -944,7 +944,7 @@
           "type": "File",
           "artifact": {
             "size": 3185275,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/citadel-2.6.3-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/citadel-2.6.3-1.20.1.jar",
             "MD5": "da80c09b998d829b6d580e5be76dcc7b",
             "path": "mods/citadel-2.6.3-1.20.1.jar"
           }
@@ -955,7 +955,7 @@
           "type": "File",
           "artifact": {
             "size": 1181413,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/cloth-config-11.1.136-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
             "path": "mods/cloth-config-11.1.136-forge.jar"
           }
@@ -966,7 +966,7 @@
           "type": "File",
           "artifact": {
             "size": 5043870,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/Connector-1.0.0-beta.48+1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/Connector-1.0.0-beta.48+1.20.1.jar",
             "MD5": "3abc5720b82e8d9f8986f65776b8cfe0",
             "path": "mods/Connector-1.0.0-beta.48+1.20.1.jar"
           }
@@ -977,7 +977,7 @@
           "type": "File",
           "artifact": {
             "size": 1016666,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/continuity-3.0.0+1.20.1.forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/continuity-3.0.0+1.20.1.forge.jar",
             "MD5": "d14cdccb4b6c161d9846cc8cdf03068e",
             "path": "mods/continuity-3.0.0+1.20.1.forge.jar"
           }
@@ -988,7 +988,7 @@
           "type": "File",
           "artifact": {
             "size": 1996097,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/copycats-3.0.7+mc.1.20.1-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/copycats-3.0.7+mc.1.20.1-forge.jar",
             "MD5": "47e13c8058d400e4a6316d00f451b29c",
             "path": "mods/copycats-3.0.7+mc.1.20.1-forge.jar"
           }
@@ -999,7 +999,7 @@
           "type": "File",
           "artifact": {
             "size": 19170905,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/create-1.20.1-6.0.8.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/create-1.20.1-6.0.8.jar",
             "MD5": "6ebc5c57638c1678359eac65b924c310",
             "path": "mods/create-1.20.1-6.0.8.jar"
           }
@@ -1010,7 +1010,7 @@
           "type": "File",
           "artifact": {
             "size": 1145493,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/create-new-age-1.1.7f+forge-mc1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/create-new-age-1.1.7f+forge-mc1.20.1.jar",
             "MD5": "440cebaedac170a945afb4301a008c67",
             "path": "mods/create-new-age-1.1.7f+forge-mc1.20.1.jar"
           }
@@ -1021,7 +1021,7 @@
           "type": "File",
           "artifact": {
             "size": 484781,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/create-structures-0.1.1-1.20.1-FORGE.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/create-structures-0.1.1-1.20.1-FORGE.jar",
             "MD5": "0cb30674cab22e70fd710c9ac16e2e99",
             "path": "mods/create-structures-0.1.1-1.20.1-FORGE.jar"
           }
@@ -1032,7 +1032,7 @@
           "type": "File",
           "artifact": {
             "size": 1577313,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/createaddition-1.20.1-1.3.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/createaddition-1.20.1-1.3.3.jar",
             "MD5": "1c0d2275ead3e4756d77ac5a86f135ab",
             "path": "mods/createaddition-1.20.1-1.3.3.jar"
           }
@@ -1043,7 +1043,7 @@
           "type": "File",
           "artifact": {
             "size": 3128610,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/createdieselgenerators-1.20.1-1.3.12.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/createdieselgenerators-1.20.1-1.3.12.jar",
             "MD5": "571062d1d465253d2cef260759576dad",
             "path": "mods/createdieselgenerators-1.20.1-1.3.12.jar"
           }
@@ -1054,7 +1054,7 @@
           "type": "File",
           "artifact": {
             "size": 84234,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/createendertransmission-2.1.1-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/createendertransmission-2.1.1-1.20.1.jar",
             "MD5": "c25d776f4958531da67c5c833c59ce7f",
             "path": "mods/createendertransmission-2.1.1-1.20.1.jar"
           }
@@ -1065,7 +1065,7 @@
           "type": "File",
           "artifact": {
             "size": 20245,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/createliquidfuel-2.1.1-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/createliquidfuel-2.1.1-1.20.1.jar",
             "MD5": "41d2472841c5dc5d43adc52b27b3123b",
             "path": "mods/createliquidfuel-2.1.1-1.20.1.jar"
           }
@@ -1076,7 +1076,7 @@
           "type": "File",
           "artifact": {
             "size": 6566935,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/create_connected-1.1.13-mc1.20.1-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/create_connected-1.1.13-mc1.20.1-all.jar",
             "MD5": "41d5fe0be91c489d7120a17cc6da47f3",
             "path": "mods/create_connected-1.1.13-mc1.20.1-all.jar"
           }
@@ -1087,7 +1087,7 @@
           "type": "File",
           "artifact": {
             "size": 638327,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/create_jetpack-forge-4.4.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/create_jetpack-forge-4.4.6.jar",
             "MD5": "01a3f185f61d0ddd4a592c55c6640ba5",
             "path": "mods/create_jetpack-forge-4.4.6.jar"
           }
@@ -1098,7 +1098,7 @@
           "type": "File",
           "artifact": {
             "size": 1143788,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar",
             "MD5": "a58f958ab8b789af3c6b3a9d93ca415d",
             "path": "mods/CreativeCore_FORGE_v2.12.35_mc1.20.1.jar"
           }
@@ -1109,7 +1109,7 @@
           "type": "File",
           "artifact": {
             "size": 398066,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
             "path": "mods/curios-forge-5.14.1+1.20.1.jar"
           }
@@ -1120,7 +1120,7 @@
           "type": "File",
           "artifact": {
             "size": 153877,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/CustomSkinLoader_ForgeV2-14.28.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/CustomSkinLoader_ForgeV2-14.28.jar",
             "MD5": "902406300ff7da3811d46523fad84734",
             "path": "mods/CustomSkinLoader_ForgeV2-14.28.jar"
           }
@@ -1131,7 +1131,7 @@
           "type": "File",
           "artifact": {
             "size": 7142861,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/DailyBoss-1.20.1-1.8.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/DailyBoss-1.20.1-1.8.jar",
             "MD5": "cffd5917bccd26e31d3699b3d8cc313e",
             "path": "mods/DailyBoss-1.20.1-1.8.jar"
           }
@@ -1142,7 +1142,7 @@
           "type": "File",
           "artifact": {
             "size": 2467787,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/DailyBoss-IronsSpellbooks-1.20.1-1.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/DailyBoss-IronsSpellbooks-1.20.1-1.0.jar",
             "MD5": "be235ddac46fd92b520a3c7af07c7dea",
             "path": "mods/DailyBoss-IronsSpellbooks-1.20.1-1.0.jar"
           }
@@ -1153,7 +1153,7 @@
           "type": "File",
           "artifact": {
             "size": 4482489,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/darkdoppelganger-9.8.2-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/darkdoppelganger-9.8.2-1.20.1.jar",
             "MD5": "b830a8d8aa4d728884b4fe61bf56c9c7",
             "path": "mods/darkdoppelganger-9.8.2-1.20.1.jar"
           }
@@ -1164,7 +1164,7 @@
           "type": "File",
           "artifact": {
             "size": 4544,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/darkster-epic-guns-tacz-+-epicfight-0.1.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/darkster-epic-guns-tacz-+-epicfight-0.1.0.jar",
             "MD5": "8d5baead9a275097d47018136cd4dec7",
             "path": "mods/darkster-epic-guns-tacz-+-epicfight-0.1.0.jar"
           }
@@ -1175,7 +1175,7 @@
           "type": "File",
           "artifact": {
             "size": 182476,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
             "MD5": "29bc8833f5d9b1edcb32617e16a9ec5e",
             "path": "mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar"
           }
@@ -1186,7 +1186,7 @@
           "type": "File",
           "artifact": {
             "size": 275713,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/drivebywire-1.20.1-0.1.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/drivebywire-1.20.1-0.1.0.jar",
             "MD5": "85f0f266303a93ea26365f03af82e26e",
             "path": "mods/drivebywire-1.20.1-0.1.0.jar"
           }
@@ -1197,7 +1197,7 @@
           "type": "File",
           "artifact": {
             "size": 8762342,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/DungeonsArise-1.20.x-2.1.58-release.jar",
             "MD5": "6ac48d0cf2ce763824f96f6d26963219",
             "path": "mods/DungeonsArise-1.20.x-2.1.58-release.jar"
           }
@@ -1208,7 +1208,7 @@
           "type": "File",
           "artifact": {
             "size": 1828904,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/ecologics-forge-1.20.1-2.2.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/ecologics-forge-1.20.1-2.2.4.jar",
             "MD5": "9263661a799e44144d390aba0fffa8bf",
             "path": "mods/ecologics-forge-1.20.1-2.2.4.jar"
           }
@@ -1219,7 +1219,7 @@
           "type": "File",
           "artifact": {
             "size": 2326090,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/effortlessbuilding-1.20.1-3.11.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/effortlessbuilding-1.20.1-3.11.jar",
             "MD5": "7ee1517f0b5072e760a258b03b93aa5a",
             "path": "mods/effortlessbuilding-1.20.1-3.11.jar"
           }
@@ -1230,7 +1230,7 @@
           "type": "File",
           "artifact": {
             "size": 247739,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/efiscompat-2.6.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/efiscompat-2.6.0.jar",
             "MD5": "36f26722009fc696b3f02a35a2487361",
             "path": "mods/efiscompat-2.6.0.jar"
           }
@@ -1241,7 +1241,7 @@
           "type": "File",
           "artifact": {
             "size": 1320675,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
             "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
           }
@@ -1252,7 +1252,7 @@
           "type": "File",
           "artifact": {
             "size": 177441,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar",
             "MD5": "db4c0ba3b2dc964f8f978305e7f26a35",
             "path": "mods/EnchantingInfuser-v8.0.3-1.20.1-Forge.jar"
           }
@@ -1263,7 +1263,7 @@
           "type": "File",
           "artifact": {
             "size": 699454,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/entity_model_features_1.20.1-forge-3.1.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/entity_model_features_1.20.1-forge-3.1.1.jar",
             "MD5": "e933c8dfdd5b7f5d375341a54140c1b9",
             "path": "mods/entity_model_features_1.20.1-forge-3.1.1.jar"
           }
@@ -1274,7 +1274,7 @@
           "type": "File",
           "artifact": {
             "size": 944851,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/entity_texture_features_1.20.1-forge-7.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/entity_texture_features_1.20.1-forge-7.1.jar",
             "MD5": "bb8a57f4e9965654c344854fb45dd540",
             "path": "mods/entity_texture_features_1.20.1-forge-7.1.jar"
           }
@@ -1285,7 +1285,7 @@
           "type": "File",
           "artifact": {
             "size": 8196866,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/epic-fight-20.14.16-mc1.20.1-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/epic-fight-20.14.16-mc1.20.1-forge.jar",
             "MD5": "829efaf1aaeccfa6a4c77dc92c9edef9",
             "path": "mods/epic-fight-20.14.16-mc1.20.1-forge.jar"
           }
@@ -1296,7 +1296,7 @@
           "type": "File",
           "artifact": {
             "size": 268536,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar",
             "MD5": "2a6953413855e25e0bd1b61152d9e7de",
             "path": "mods/epic-fight-invincible-lib-20.14.8.2-mc1.20.1-forge.jar"
           }
@@ -1307,7 +1307,7 @@
           "type": "File",
           "artifact": {
             "size": 51366384,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/EpicFight%20Nightfall-3.2.5-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/EpicFight%20Nightfall-3.2.5-all.jar",
             "MD5": "e5ca87e11b4bef79c60de5e5cd6b9387",
             "path": "mods/EpicFight Nightfall-3.2.5-all.jar"
           }
@@ -1318,7 +1318,7 @@
           "type": "File",
           "artifact": {
             "size": 645196,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/epic_fight_avalon-20.12.6.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/epic_fight_avalon-20.12.6.4.jar",
             "MD5": "a4dfa0b1096ce7dab4c9dbdfa5a87c11",
             "path": "mods/epic_fight_avalon-20.12.6.4.jar"
           }
@@ -1329,7 +1329,7 @@
           "type": "File",
           "artifact": {
             "size": 3065813,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
             "MD5": "2859d401e221e94acf0b48c5f7efa50b",
             "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
           }
@@ -1340,7 +1340,7 @@
           "type": "File",
           "artifact": {
             "size": 420181,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/FallingTree-1.20.1-4.3.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/FallingTree-1.20.1-4.3.4.jar",
             "MD5": "260303e64027dabb008d5b8ee4f39a7e",
             "path": "mods/FallingTree-1.20.1-4.3.4.jar"
           }
@@ -1351,7 +1351,7 @@
           "type": "File",
           "artifact": {
             "size": 2963831,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/FarmersDelight-1.20.1-1.2.11a.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/FarmersDelight-1.20.1-1.2.11a.jar",
             "MD5": "44aa4b82c812981af75a06188b3b2213",
             "path": "mods/FarmersDelight-1.20.1-1.2.11a.jar"
           }
@@ -1362,7 +1362,7 @@
           "type": "File",
           "artifact": {
             "size": 1647611,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/fdlib-1.0.9-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/fdlib-1.0.9-1.20.1.jar",
             "MD5": "11e46ddb07dd018b3001aee0ba330042",
             "path": "mods/fdlib-1.0.9-1.20.1.jar"
           }
@@ -1373,7 +1373,7 @@
           "type": "File",
           "artifact": {
             "size": 123034,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/ferritecore-6.0.1-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383",
             "path": "mods/ferritecore-6.0.1-forge.jar"
           }
@@ -1384,7 +1384,7 @@
           "type": "File",
           "artifact": {
             "size": 4251314,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/FramedBlocks-9.4.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/FramedBlocks-9.4.3.jar",
             "MD5": "9afefc077f00c192b0f953c2987c5a66",
             "path": "mods/FramedBlocks-9.4.3.jar"
           }
@@ -1395,7 +1395,7 @@
           "type": "File",
           "artifact": {
             "size": 383868,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/framework-forge-1.20.1-0.8.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/framework-forge-1.20.1-0.8.0.jar",
             "MD5": "6d9a54cd004b15028673b309243e07a2",
             "path": "mods/framework-forge-1.20.1-0.8.0.jar"
           }
@@ -1406,7 +1406,7 @@
           "type": "File",
           "artifact": {
             "size": 1039047,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/geckolib-forge-1.20.1-4.8.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/geckolib-forge-1.20.1-4.8.3.jar",
             "MD5": "60b7bce466abc60377785bf3dc84974c",
             "path": "mods/geckolib-forge-1.20.1-4.8.3.jar"
           }
@@ -1417,7 +1417,7 @@
           "type": "File",
           "artifact": {
             "size": 317181,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/gravestone-forge-1.20.1-1.0.35.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/gravestone-forge-1.20.1-1.0.35.jar",
             "MD5": "c9a1a01c302368ed43270ceebb2c2251",
             "path": "mods/gravestone-forge-1.20.1-1.0.35.jar"
           }
@@ -1428,7 +1428,7 @@
           "type": "File",
           "artifact": {
             "size": 9413204,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/guideme-20.1.14.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/guideme-20.1.14.jar",
             "MD5": "6425ddca1593d7f73c7160e54333cfef",
             "path": "mods/guideme-20.1.14.jar"
           }
@@ -1439,7 +1439,7 @@
           "type": "File",
           "artifact": {
             "size": 538992,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
             "MD5": "8fb21bb328cc322c6d9749eff087509f",
             "path": "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
           }
@@ -1450,7 +1450,7 @@
           "type": "File",
           "artifact": {
             "size": 392806,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/irons_lib-1.20.1-1.0.2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/irons_lib-1.20.1-1.0.2.jar",
             "MD5": "836d1f4c8101c6f2b93e937ad73c445a",
             "path": "mods/irons_lib-1.20.1-1.0.2.jar"
           }
@@ -1461,7 +1461,7 @@
           "type": "File",
           "artifact": {
             "size": 15178473,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/irons_spellbooks-1.20.1-3.15.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/irons_spellbooks-1.20.1-3.15.6.jar",
             "MD5": "4962626373be2b03c7ee2bd55a596982",
             "path": "mods/irons_spellbooks-1.20.1-3.15.6.jar"
           }
@@ -1472,7 +1472,7 @@
           "type": "File",
           "artifact": {
             "size": 552486,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/Jade-1.20.1-Forge-11.13.2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/Jade-1.20.1-Forge-11.13.2.jar",
             "MD5": "7c349670f77fd64b9e9854c4a8d82fcc",
             "path": "mods/Jade-1.20.1-Forge-11.13.2.jar"
           }
@@ -1483,7 +1483,7 @@
           "type": "File",
           "artifact": {
             "size": 7442998,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/kotlinforforge-4.12.0-all.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/kotlinforforge-4.12.0-all.jar",
             "MD5": "d6a40dede74edbe646b34a1bafd53b4d",
             "path": "mods/kotlinforforge-4.12.0-all.jar"
           }
@@ -1494,7 +1494,7 @@
           "type": "File",
           "artifact": {
             "size": 1440591,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-API-forge-1.2.15-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-API-forge-1.2.15-forge.jar",
             "MD5": "82d392dd5ef6064d8988592a35b3b403",
             "path": "mods/letsdo-API-forge-1.2.15-forge.jar"
           }
@@ -1505,7 +1505,7 @@
           "type": "File",
           "artifact": {
             "size": 1222186,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-bakery-forge-2.0.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-bakery-forge-2.0.6.jar",
             "MD5": "609043b4852fe5f9965c396d3df71fbd",
             "path": "mods/letsdo-bakery-forge-2.0.6.jar"
           }
@@ -1516,7 +1516,7 @@
           "type": "File",
           "artifact": {
             "size": 3094193,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-bloomingnature-forge-1.0.12.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-bloomingnature-forge-1.0.12.jar",
             "MD5": "f4ecd7e5eac2d8a34741ff13534caf43",
             "path": "mods/letsdo-bloomingnature-forge-1.0.12.jar"
           }
@@ -1527,7 +1527,7 @@
           "type": "File",
           "artifact": {
             "size": 2048413,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-brewery-forge-2.0.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-brewery-forge-2.0.6.jar",
             "MD5": "4acf34c0821b41d5a640b94e69672798",
             "path": "mods/letsdo-brewery-forge-2.0.6.jar"
           }
@@ -1538,7 +1538,7 @@
           "type": "File",
           "artifact": {
             "size": 2328624,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-farm_and_charm-forge-1.0.14.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-farm_and_charm-forge-1.0.14.jar",
             "MD5": "6278fb984da2ca60498fd4c78675524a",
             "path": "mods/letsdo-farm_and_charm-forge-1.0.14.jar"
           }
@@ -1549,7 +1549,7 @@
           "type": "File",
           "artifact": {
             "size": 2816299,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-furniture-forge-1.0.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-furniture-forge-1.0.4.jar",
             "MD5": "5e335eb9a539cb96b9c7a6f26bc752c1",
             "path": "mods/letsdo-furniture-forge-1.0.4.jar"
           }
@@ -1560,7 +1560,7 @@
           "type": "File",
           "artifact": {
             "size": 2041283,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-vinery-forge-1.4.41.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/letsdo-vinery-forge-1.4.41.jar",
             "MD5": "bf692e0100772cfa90b9878a38c1f28a",
             "path": "mods/letsdo-vinery-forge-1.4.41.jar"
           }
@@ -1571,7 +1571,7 @@
           "type": "File",
           "artifact": {
             "size": 244410,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/libraryferret-forge-1.20.1-4.0.0.jar",
             "MD5": "2fc42e82c5ab39bdd9ab80de2c8201b3",
             "path": "mods/libraryferret-forge-1.20.1-4.0.0.jar"
           }
@@ -1582,7 +1582,7 @@
           "type": "File",
           "artifact": {
             "size": 101931,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/lionfishapi-3.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/lionfishapi-3.0.jar",
             "MD5": "76af08dd2f58d5557d13162d855f4cc9",
             "path": "mods/lionfishapi-3.0.jar"
           }
@@ -1593,7 +1593,7 @@
           "type": "File",
           "artifact": {
             "size": 2623590,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/LittleTiles_BETA_v1.6.0-pre161_mc1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/LittleTiles_BETA_v1.6.0-pre161_mc1.20.1.jar",
             "MD5": "6a2fc00a147499e23669ece1034b808a",
             "path": "mods/LittleTiles_BETA_v1.6.0-pre161_mc1.20.1.jar"
           }
@@ -1604,7 +1604,7 @@
           "type": "File",
           "artifact": {
             "size": 463485,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/lootr-forge-1.20-0.7.35.94.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/lootr-forge-1.20-0.7.35.94.jar",
             "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7",
             "path": "mods/lootr-forge-1.20-0.7.35.94.jar"
           }
@@ -1615,7 +1615,7 @@
           "type": "File",
           "artifact": {
             "size": 73914394,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/L_Enders_Cataclysm-3.28-optimization.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/L_Enders_Cataclysm-3.28-optimization.jar",
             "MD5": "ae245df9655613c3fb6f86d8d03adba7",
             "path": "mods/L_Enders_Cataclysm-3.28-optimization.jar"
           }
@@ -1626,7 +1626,7 @@
           "type": "File",
           "artifact": {
             "size": 227925,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab",
             "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
           }
@@ -1637,7 +1637,7 @@
           "type": "File",
           "artifact": {
             "size": 76237,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2",
             "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
           }
@@ -1648,7 +1648,7 @@
           "type": "File",
           "artifact": {
             "size": 36033850,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/mowziesmobs-1.8.2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/mowziesmobs-1.8.2.jar",
             "MD5": "d650da053314d7384a537db1f316d11f",
             "path": "mods/mowziesmobs-1.8.2.jar"
           }
@@ -1659,7 +1659,7 @@
           "type": "File",
           "artifact": {
             "size": 43426,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/multiplayerbosses-1.1.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/multiplayerbosses-1.1.3.jar",
             "MD5": "600d977b7812ef377b71aeb54f5cae90",
             "path": "mods/multiplayerbosses-1.1.3.jar"
           }
@@ -1670,7 +1670,7 @@
           "type": "File",
           "artifact": {
             "size": 783106,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/MyNethersDelight-1.20.1-0.1.8.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/MyNethersDelight-1.20.1-0.1.8.jar",
             "MD5": "0a7796bfca2d661d07e6e3323bde8a3d",
             "path": "mods/MyNethersDelight-1.20.1-0.1.8.jar"
           }
@@ -1681,7 +1681,7 @@
           "type": "File",
           "artifact": {
             "size": 424035,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c",
             "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
           }
@@ -1692,7 +1692,7 @@
           "type": "File",
           "artifact": {
             "size": 117226,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/oculus-flywheel-compat-Forge-2.0.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/oculus-flywheel-compat-Forge-2.0.3.jar",
             "MD5": "dd9bfddf81ea63bd5b4267ab7d363f26",
             "path": "mods/oculus-flywheel-compat-Forge-2.0.3.jar"
           }
@@ -1703,7 +1703,7 @@
           "type": "File",
           "artifact": {
             "size": 2851119,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572",
             "path": "mods/oculus-mc1.20.1-1.8.0.jar"
           }
@@ -1714,7 +1714,7 @@
           "type": "File",
           "artifact": {
             "size": 66786,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/onlyhammers-1.20.1-1.0.2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/onlyhammers-1.20.1-1.0.2.jar",
             "MD5": "3c51d542ce7dfdf74234241477458f30",
             "path": "mods/onlyhammers-1.20.1-1.0.2.jar"
           }
@@ -1725,7 +1725,7 @@
           "type": "File",
           "artifact": {
             "size": 23937,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/OpenLoader-Forge-1.20.1-19.0.5.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/OpenLoader-Forge-1.20.1-19.0.5.jar",
             "MD5": "2aea0c0fba23c4e9e3d387c6aeefdb62",
             "path": "mods/OpenLoader-Forge-1.20.1-19.0.5.jar"
           }
@@ -1736,7 +1736,7 @@
           "type": "File",
           "artifact": {
             "size": 181437,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01",
             "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
           }
@@ -1747,7 +1747,7 @@
           "type": "File",
           "artifact": {
             "size": 475893,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/plushie_buddies-1.0.0-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/plushie_buddies-1.0.0-1.20.1.jar",
             "MD5": "4c2398b344f2afea3de8272aed0424cf",
             "path": "mods/plushie_buddies-1.0.0-1.20.1.jar"
           }
@@ -1758,7 +1758,7 @@
           "type": "File",
           "artifact": {
             "size": 1342987,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
             "MD5": "19f23e3040eaadc7c30ae38f5a3dec68",
             "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
           }
@@ -1769,7 +1769,7 @@
           "type": "File",
           "artifact": {
             "size": 409926,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/rarcompat-1.20.1-0.5.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/rarcompat-1.20.1-0.5.jar",
             "MD5": "6d7958b048c0f25afc179c769868990f",
             "path": "mods/rarcompat-1.20.1-0.5.jar"
           }
@@ -1780,7 +1780,7 @@
           "type": "File",
           "artifact": {
             "size": 6689588,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
             "MD5": "53bf35be2dc746e3fd7805a4e63a46a6",
             "path": "mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
           }
@@ -1791,7 +1791,7 @@
           "type": "File",
           "artifact": {
             "size": 1521089,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/relics-1.20.1-0.8.0.13.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/relics-1.20.1-0.8.0.13.jar",
             "MD5": "8e8a8beb1ac0776448dfbcec179734a1",
             "path": "mods/relics-1.20.1-0.8.0.13.jar"
           }
@@ -1802,7 +1802,7 @@
           "type": "File",
           "artifact": {
             "size": 136923,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
             "MD5": "947463b04c043937cd24506842f737a3",
             "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar"
           }
@@ -1813,7 +1813,7 @@
           "type": "File",
           "artifact": {
             "size": 432753,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "a040c6cc86f653fddf280ff3af9068f0",
             "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar"
           }
@@ -1824,7 +1824,7 @@
           "type": "File",
           "artifact": {
             "size": 2223589,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/Ribbits-1.20.1-Forge-3.0.5.jar",
             "MD5": "78738d0963058eb2dd061146a6fd86e8",
             "path": "mods/Ribbits-1.20.1-Forge-3.0.5.jar"
           }
@@ -1835,7 +1835,7 @@
           "type": "File",
           "artifact": {
             "size": 2384003,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/RoughlyEnoughItems-12.1.785-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/RoughlyEnoughItems-12.1.785-forge.jar",
             "MD5": "789cc933dc48d77a49e17edf607b602d",
             "path": "mods/RoughlyEnoughItems-12.1.785-forge.jar"
           }
@@ -1846,7 +1846,7 @@
           "type": "File",
           "artifact": {
             "size": 588268,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/sliceanddice-forge-3.6.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/sliceanddice-forge-3.6.0.jar",
             "MD5": "d32f1794294f473f0a63296cac72802d",
             "path": "mods/sliceanddice-forge-3.6.0.jar"
           }
@@ -1857,7 +1857,7 @@
           "type": "File",
           "artifact": {
             "size": 1018675,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/sophisticatedbackpacks-1.20.1-3.24.35.1675.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/sophisticatedbackpacks-1.20.1-3.24.35.1675.jar",
             "MD5": "b494adafb71fc74e962cf9326380ae44",
             "path": "mods/sophisticatedbackpacks-1.20.1-3.24.35.1675.jar"
           }
@@ -1868,7 +1868,7 @@
           "type": "File",
           "artifact": {
             "size": 1435470,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/sophisticatedcore-1.20.1-1.3.21.1676.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/sophisticatedcore-1.20.1-1.3.21.1676.jar",
             "MD5": "34d3b5386b8be34ed5957d7982b4e574",
             "path": "mods/sophisticatedcore-1.20.1-1.3.21.1676.jar"
           }
@@ -1879,7 +1879,7 @@
           "type": "File",
           "artifact": {
             "size": 1672641,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/sophisticatedstorage-1.20.1-1.4.37.1645.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/sophisticatedstorage-1.20.1-1.4.37.1645.jar",
             "MD5": "3aaba175ce2e0af586f7b09374efa73a",
             "path": "mods/sophisticatedstorage-1.20.1-1.4.37.1645.jar"
           }
@@ -1890,7 +1890,7 @@
           "type": "File",
           "artifact": {
             "size": 52426062,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/tacz-1.20.1-1.1.7-hotfix2.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/tacz-1.20.1-1.1.7-hotfix2.jar",
             "MD5": "0038fa8d38a045d711d8405eb6c382e6",
             "path": "mods/tacz-1.20.1-1.1.7-hotfix2.jar"
           }
@@ -1901,7 +1901,7 @@
           "type": "File",
           "artifact": {
             "size": 432468,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/tacz_c-1.0.2-forge-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/tacz_c-1.0.2-forge-1.20.1.jar",
             "MD5": "31955b865a8988df194723fb48be1ff3",
             "path": "mods/tacz_c-1.0.2-forge-1.20.1.jar"
           }
@@ -1912,7 +1912,7 @@
           "type": "File",
           "artifact": {
             "size": 3758273,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/takesapillage-1.0.3-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/takesapillage-1.0.3-1.20.1.jar",
             "MD5": "df4c3678bd5e37a14bb0a3f65071ea8a",
             "path": "mods/takesapillage-1.0.3-1.20.1.jar"
           }
@@ -1923,7 +1923,7 @@
           "type": "File",
           "artifact": {
             "size": 27024132,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/terramity-0.9.8-forge-1.20.1.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/terramity-0.9.8-forge-1.20.1.jar",
             "MD5": "87ee7f355e9c9c311b31bdca558ebb81",
             "path": "mods/terramity-0.9.8-forge-1.20.1.jar"
           }
@@ -1934,7 +1934,7 @@
           "type": "File",
           "artifact": {
             "size": 5343749,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/tfmg-1.0.2f.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/tfmg-1.0.2f.jar",
             "MD5": "fd033fc4132f7cd26a0f30e6181d8fde",
             "path": "mods/tfmg-1.0.2f.jar"
           }
@@ -1945,7 +1945,7 @@
           "type": "File",
           "artifact": {
             "size": 576332,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/trackwork-1.20.1-1.2.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/trackwork-1.20.1-1.2.3.jar",
             "MD5": "1f21faa7ce2c21990d5e4090e702f9b5",
             "path": "mods/trackwork-1.20.1-1.2.3.jar"
           }
@@ -1956,7 +1956,7 @@
           "type": "File",
           "artifact": {
             "size": 117939,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/trashslot-forge-1.20.1-15.1.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/trashslot-forge-1.20.1-15.1.3.jar",
             "MD5": "9f4aa554c49a537432994a5b2c8d860e",
             "path": "mods/trashslot-forge-1.20.1-15.1.3.jar"
           }
@@ -1967,7 +1967,7 @@
           "type": "File",
           "artifact": {
             "size": 27752937,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/valkyrienskies-120-2.4.11.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/valkyrienskies-120-2.4.11.jar",
             "MD5": "253558e4bc0d0e776b20f475b7a39765",
             "path": "mods/valkyrienskies-120-2.4.11.jar"
           }
@@ -1978,7 +1978,7 @@
           "type": "File",
           "artifact": {
             "size": 46917,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/veinminer-1.1.0.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/veinminer-1.1.0.jar",
             "MD5": "8c08e483c3aa3ca8807f4aaa84c03c62",
             "path": "mods/veinminer-1.1.0.jar"
           }
@@ -1989,7 +1989,7 @@
           "type": "File",
           "artifact": {
             "size": 533739,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/waystones-forge-1.20.1-14.1.20.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/waystones-forge-1.20.1-14.1.20.jar",
             "MD5": "d093567eb50c8e8af0958c66ed17968b",
             "path": "mods/waystones-forge-1.20.1-14.1.20.jar"
           }
@@ -2000,7 +2000,7 @@
           "type": "File",
           "artifact": {
             "size": 20276434,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/WeaponsOfMiracles-2.0.15-mc1.20.1-forge.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/WeaponsOfMiracles-2.0.15-mc1.20.1-forge.jar",
             "MD5": "ab0aafd05b3a90bf1efc23409fb7413c",
             "path": "mods/WeaponsOfMiracles-2.0.15-mc1.20.1-forge.jar"
           }
@@ -2011,7 +2011,7 @@
           "type": "File",
           "artifact": {
             "size": 2146522,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/xaerominimap-forge-1.20.1-25.3.10.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/xaerominimap-forge-1.20.1-25.3.10.jar",
             "MD5": "2847dc482588772ec551a5b5112dc686",
             "path": "mods/xaerominimap-forge-1.20.1-25.3.10.jar"
           }
@@ -2022,7 +2022,7 @@
           "type": "File",
           "artifact": {
             "size": 1388342,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/xaeroworldmap-forge-1.20.1-1.40.11.jar",
             "MD5": "d8624a1b587fbcd28d8f5dc5b13399d4",
             "path": "mods/xaeroworldmap-forge-1.20.1-1.40.11.jar"
           }
@@ -2033,7 +2033,7 @@
           "type": "File",
           "artifact": {
             "size": 370524,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsApi-1.20-Forge-4.0.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsApi-1.20-Forge-4.0.6.jar",
             "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c",
             "path": "mods/YungsApi-1.20-Forge-4.0.6.jar"
           }
@@ -2044,7 +2044,7 @@
           "type": "File",
           "artifact": {
             "size": 401492,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
             "MD5": "a844a79f9dbfe04e62616f2239ecf265",
             "path": "mods/YungsBetterCaves-1.20.1-Forge-2.0.5.jar"
           }
@@ -2055,7 +2055,7 @@
           "type": "File",
           "artifact": {
             "size": 918012,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
             "MD5": "183e2c817e9094ce215c9e70c114825f",
             "path": "mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar"
           }
@@ -2066,7 +2066,7 @@
           "type": "File",
           "artifact": {
             "size": 792381,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
             "MD5": "2de2f1be8f528ad139003bb5c73d49f3",
             "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
           }
@@ -2077,7 +2077,7 @@
           "type": "File",
           "artifact": {
             "size": 387111,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
             "MD5": "7f5ed661e5478668a91ea199fba75fb3",
             "path": "mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
           }
@@ -2088,7 +2088,7 @@
           "type": "File",
           "artifact": {
             "size": 619255,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
             "MD5": "8f0011690923efb6e2d59514181f0bc9",
             "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
           }
@@ -2099,7 +2099,7 @@
           "type": "File",
           "artifact": {
             "size": 12744,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/options.txt",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/options.txt",
             "MD5": "a58874dfb6f0bdf3d0e94ba02b39a899",
             "path": "options.txt"
           }
@@ -2110,7 +2110,7 @@
           "type": "File",
           "artifact": {
             "size": 251791,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(No%20Animated%20Eyes).zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/-1.21.2%20Fresh%20Moves%20v3.1%20(No%20Animated%20Eyes).zip",
             "MD5": "a3ee0e4b7855507e85262083fffd7610",
             "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip"
           }
@@ -2121,7 +2121,7 @@
           "type": "File",
           "artifact": {
             "size": 1923769,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Better-Leaves-9.5.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Better-Leaves-9.5.zip",
             "MD5": "160295900634077426b1261171d87f29",
             "path": "resourcepacks/Better-Leaves-9.5.zip"
           }
@@ -2132,7 +2132,7 @@
           "type": "File",
           "artifact": {
             "size": 237777,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/boss-refreshed-v2-1.19-1.21.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/boss-refreshed-v2-1.19-1.21.zip",
             "MD5": "2bb5cb1f6b050d1a4d44765fe911f959",
             "path": "resourcepacks/boss-refreshed-v2-1.19-1.21.zip"
           }
@@ -2143,7 +2143,7 @@
           "type": "File",
           "artifact": {
             "size": 13912171,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.36.3.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.36.3.zip",
             "MD5": "a4025e481fa12cca49bfc558095460fe",
             "path": "resourcepacks/Dramatic Skys Demo 1.5.3.36.3.zip"
           }
@@ -2154,7 +2154,7 @@
           "type": "File",
           "artifact": {
             "size": 425088,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/FA+All_Extensions-v1.8.1.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/FA+All_Extensions-v1.8.1.zip",
             "MD5": "0276e05c597d860237336670f581890a",
             "path": "resourcepacks/FA+All_Extensions-v1.8.1.zip"
           }
@@ -2165,7 +2165,7 @@
           "type": "File",
           "artifact": {
             "size": 10928,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Fast%20Better%20Grass.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Fast%20Better%20Grass.zip",
             "MD5": "cdc5ecceda843db1ea21355b84a39692",
             "path": "resourcepacks/Fast Better Grass.zip"
           }
@@ -2176,7 +2176,7 @@
           "type": "File",
           "artifact": {
             "size": 850941,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/FreshAnimations_v1.10.4.zip",
             "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
             "path": "resourcepacks/FreshAnimations_v1.10.4.zip"
           }
@@ -2187,7 +2187,7 @@
           "type": "File",
           "artifact": {
             "size": 212005,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/NewGlowingOres%C2%A76[BV-1.3][1.20].zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/NewGlowingOres%C2%A76[BV-1.3][1.20].zip",
             "MD5": "cde7835c6b90400d915cf9902962aaaf",
             "path": "resourcepacks/NewGlowingOres§6[BV-1.3][1.20].zip"
           }
@@ -2198,7 +2198,7 @@
           "type": "File",
           "artifact": {
             "size": 4340115,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Whimscape_1.20-1.20.1_r7.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/resourcepacks/Whimscape_1.20-1.20.1_r7.zip",
             "MD5": "7541625f56b5232d02d0904d5ecb9328",
             "path": "resourcepacks/Whimscape_1.20-1.20.1_r7.zip"
           }
@@ -2209,7 +2209,7 @@
           "type": "File",
           "artifact": {
             "size": 522973,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
             "MD5": "b535d194c7115b360860e226c65ae3f2",
             "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
           }
@@ -2220,7 +2220,7 @@
           "type": "File",
           "artifact": {
             "size": 1842205,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip",
             "MD5": "38b14a6ce3da2c5b0dfa0fc3018052dd",
             "path": "shaderpacks/Nostalgia_v5.1.zip"
           }
@@ -2231,7 +2231,7 @@
           "type": "File",
           "artifact": {
             "size": 208,
-            "url": "https://s3.us-east-005.backblazeb2.com/NexusLauncher/servers/mi-modpack-tecnico-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip.txt",
+            "url": "https://masterwills245.github.io/Launcher/servers/mi-modpack-tecnico-1.20.1/files/shaderpacks/Nostalgia_v5.1.zip.txt",
             "MD5": "126bea94f93c1688b00a0849d968001e",
             "path": "shaderpacks/Nostalgia_v5.1.zip.txt"
           }
